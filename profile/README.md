@@ -4,7 +4,7 @@
 <img src="https://epiandes.uniandes.edu.co/wp-content/uploads/yootheme/cache/eb/logo-fac-epioandes-col-eb6e69bf.png" alt="EpiAndes" width="220"/>
 
 # EpiAndes
-### Grupo de Epidemiología — Universidad de los Andes
+### Grupo de Epidemiología - Universidad de los Andes
 
 Estudios epidemiológicos en salud urbana, cambio climático y salud, y prevención de enfermedades crónicas no transmisibles.
 
@@ -18,14 +18,14 @@ Estudios epidemiológicos en salud urbana, cambio climático y salud, y prevenci
 
 ## Quiénes somos
 
-EpiAndes fue fundado en 2003 por la Dra. **Olga Lucía Sarmiento** y reúne a un equipo multidisciplinario de profesores, investigadores y estudiantes de pre y posgrado de instituciones nacionales e internacionales. Trabajamos en salud urbana, movilidad, cambio climático y prevención de enfermedades crónicas no transmisibles en Colombia y Latinoamérica.
+EpiAndes fue fundado en 2003 por la Dra. Olga Lucía Sarmiento y reúne a un equipo multidisciplinario de profesores, investigadores y estudiantes de pre y posgrado de instituciones nacionales e internacionales. Trabajamos en salud urbana, movilidad, cambio climático y prevención de enfermedades crónicas no transmisibles en Colombia y Latinoamérica.
 
 Este espacio reúne el código, los datos y los análisis de nuestras dos líneas de trabajo activas. Despliega cada sección para ver sus repositorios.
 
 <br>
 
 <details>
-<summary><b>Breathe Cities — Calidad del aire, salud y equidad en Bogotá</b></summary>
+<summary><b>Breathe Cities - Calidad del aire, salud y equidad en Bogotá</b></summary>
 <br>
 
 Generamos evidencia local sobre cómo la contaminación del aire afecta la salud y cómo esos impactos se distribuyen de forma desigual en la ciudad. Integramos métodos mixtos, análisis de exposición ambiental, estudios de morbilidad y mortalidad, y una herramienta de visualización geográfica de acceso abierto que apoya la toma de decisiones.
@@ -36,26 +36,26 @@ Generamos evidencia local sobre cómo la contaminación del aire afecta la salud
 
 | Repositorio | Descripción |
 |---|---|
-| [`breathecities-overview`](https://github.com/epiandes/breathecities-overview) | Índice y documentación general del proyecto |
-| `breathecities-...` | _(agrega aquí cada análisis a medida que crees el repo)_ |
+| [`breathe-cities`](https://github.com/Epi-Andes?q=topic%3Abreathe-cities) | Índice y documentación general del proyecto |
+
 
 **Más información:** [breathecities.org](https://breathecities.org/)
 
 </details>
 
 <details>
-<summary><b>SALURBAL</b></summary>
+<summary><b>SALURBAL - Salud Urbana en América Latina</b></summary>
 <br>
 
-_Descripción pendiente — agrégala aquí en una o dos frases cuando la tengas lista._
+Iniciativa de 14 universidades de Latinoamérica y la CEPAL que busca entender qué hace que las ciudades sean más saludables, justas y ambientalmente sostenibles. En EpiAndes, el énfasis actual es SALURBAL-Clima: la relación entre cambio climático y salud urbana, como insumo para el diseño de políticas públicas.
 
-**Coordinador/a del proyecto:** _pendiente_
+**Coordinador del proyecto:** Donny Sebastián Pasos
 
 **Repositorios de esta línea**
 
 | Repositorio | Descripción |
 |---|---|
-| [`laseptima-overview`](https://github.com/epiandes/SALURBAL-overview) | Índice y documentación general del proyecto |
+| [`salurbal-overview`](https://github.com/Epi-Andes/salurbal-overview) | Índice y documentación general del proyecto |
 
 </details>
 
@@ -65,8 +65,8 @@ _Descripción pendiente — agrégala aquí en una o dos frases cuando la tengas
 
 ## Cómo está organizado este espacio
 
-- Cada análisis vive en su propio repositorio, con el prefijo de su línea: `breathecities-` o `SALURBAL-`.
-- Cada repositorio tiene *topics* asignados para poder filtrarlos directamente en GitHub: [`breathe-cities`](https://github.com/epiandes?q=topic%3Abreathe-cities) · [`la-septima`](https://github.com/epiandes?q=topic%3ASALURBAL)
+- Cada análisis vive en su propio repositorio, con el prefijo de su línea: `breathecities-` o `salurbal-`.
+- Cada repositorio tiene *topics* asignados para poder filtrarlos directamente en GitHub:[`breathe-cities`](https://github.com/Epi-Andes?q=topic%3Abreathe-cities) · [`salurbal`](https://github.com/Epi-Andes?q=topic%3Asalurbal)
 - El repositorio `<línea>-overview` de cada proyecto es el punto de entrada: ahí están el objetivo del proyecto, el equipo y el enlace a cada análisis individual.
 
 ## Equipo y contacto
